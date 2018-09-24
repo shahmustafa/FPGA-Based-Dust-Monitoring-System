@@ -25,7 +25,7 @@ android device. The developed design has been prototyped on Nexys 4 Artix 7 FPGA
 sensor as sample. The developed system has focused on transmitting the real time dust values present in
 the environment around to the end user using available Wi-Fi technology.
 
-
+[[https://github.com/shahmustafa/FPGA-Based-Dust-Monitoring-System/tree/master/Images\Architecture-of-Interface-Control-Unit.png|alt=Architecture-of-Interface-Control-Unit.png]]
 
 FPGA based dust monitoring system [Demonstration](https://www.youtube.com/watch?v=L735aeVc8No)
 
